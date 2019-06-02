@@ -2,7 +2,7 @@
 
 def chocolateInBox(arr):
     N = 0
-    X = 0
+    xor = 0
     for a in arr:
         xor ^= a
     for a in arr:
