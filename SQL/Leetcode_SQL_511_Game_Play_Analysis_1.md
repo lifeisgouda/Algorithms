@@ -1,6 +1,6 @@
 # Leetcode 511. Game Play Analysis 1
 
-- [ ] Link: https://leetcode.com/problems/game-play-analysis-i/
+- Link: https://leetcode.com/problems/game-play-analysis-i/
 
 ## Answer
 ```SQL 
