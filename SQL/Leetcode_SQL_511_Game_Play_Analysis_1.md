@@ -15,4 +15,4 @@ GROUP BY
 ```
 
 
-![]()
+![](https://github.com/lifeisgouda/Algorithms/blob/master/img/screencapture-leetcode-submissions-detail-314789968-2020-03-22-17_05_46.png)
