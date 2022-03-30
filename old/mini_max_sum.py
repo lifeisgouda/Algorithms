@@ -1,7 +1,7 @@
 # https://www.hackerrank.com/challenges/mini-max-sum/problem
 
 # 1
-def miniMaxSum(arr):
+def minMaxSum(arr):
     arr.sort()
     total = sum(arr)
     print((total - arr[-1]), (total - arr[0]))
